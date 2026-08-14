@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <a href="https://harshportfolio-ivory.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-harshportfolio--ivory.vercel.app-4FA8E0?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+</p>
+
+<p align="center">
   Final-year Computer Engineering student @ <b>VGEC, Ahmedabad</b> (2027) · CGPA 9.0/10<br/>
   I build the layer most people never see — rate limiters, connection pools, and orchestration platforms that stay correct under load.<br/>
   Targeting backend / distributed-systems roles at product companies.
@@ -106,7 +110,7 @@ Custom JDBC connection pool built on `BlockingQueue<Connection>`, wrapped in a S
 <td width="50%" valign="top">
 
 ### More on the way
-Currently building an AI-integrated fullstack project and deepening the distributed-systems portfolio ahead of interviews. Check [pinned repos](https://github.com/HarshSoni8780?tab=repositories) for the latest.
+Currently building an AI-integrated fullstack project and deepening the distributed-systems portfolio ahead of interviews. Check [pinned repos](https://github.com/HarshSoni8780?tab=repositories) for the latest — or see it all live on the [portfolio site](https://harshportfolio-ivory.vercel.app/).
 
 `In progress`
 
@@ -128,6 +132,7 @@ Currently building an AI-integrated fullstack project and deepening the distribu
 
 <p align="center">
   <a href="mailto:harshdsoni2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://harshportfolio-ivory.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/HarshSoni8780"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://codolio.com/profile/Harsh_Soni8780"><img src="https://img.shields.io/badge/Codolio-4FA8E0?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
