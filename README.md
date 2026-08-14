@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/277775466?v=4" width="140" style="border-radius:50%;" alt="Harsh Soni"/>
+  <img src="https://ui-avatars.com/api/?name=Harsh+Soni&size=140&background=10151C&color=4FA8E0&bold=true&font-size=0.38&rounded=true&length=2" width="140" alt="Harsh Soni"/>
 </p>
 
 <h1 align="center">
@@ -133,8 +133,12 @@ Currently building an AI-integrated fullstack project and deepening the distribu
   <a href="https://codolio.com/profile/Harsh_Soni8780"><img src="https://img.shields.io/badge/Codolio-4FA8E0?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
+<br/>
+
+## Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarshSoni8780/HarshSoni8780/main/snake.svg" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/HarshSoni8780/HarshSoni8780/output/dist/snake-dark.svg" alt="contribution snake"/>
 </p>
 
 <p align="center"><sub>Built with intent, not a template.</sub></p>
