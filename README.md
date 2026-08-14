@@ -1,120 +1,115 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=26&duration=3000&pause=1000&color=4FA8E0&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems+Engineer;Go+%C2%B7+Node.js+%C2%B7+Redis+%C2%B7+Kubernetes;Building+things+that+don't+fall+over" alt="Typing SVG" />
+</h1>
 
-# harsh-portfolio
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshSoni8780&label=Profile%20Views&color=4FA8E0&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/HarshSoni8780?label=Followers&style=flat&color=3ECF8E" alt="followers"/>
+  <a href="mailto:harshdsoni2021@gmail.com"><img src="https://img.shields.io/badge/Email-harshdsoni2021%40gmail.com-E8A33D?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+</p>
 
-**A backend engineer's portfolio, designed as a systems dashboard instead of a resume.**
+<p align="center">
+  Final-year Computer Engineering student @ <b>VGEC, Ahmedabad</b> (2027) · CGPA 9.0/10<br/>
+  I build the layer most people never see — rate limiters, connection pools, and orchestration platforms that stay correct under load.<br/>
+  Targeting backend / distributed-systems roles at product companies.
+</p>
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+<p align="center">
+  <code>$ whoami</code> → open to opportunities · <code>$ status</code> → shipping
+</p>
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+<br/>
 
-</div>
+## Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cpp,js,ts,py,java,bash&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,graphql&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,linux&theme=dark" />
+</p>
 
-## Overview
+<br/>
 
-This is my personal portfolio — built to read like the systems I actually work on: a status board, not a brochure. Identity stats render as service-health metrics, navigation is styled as API routes (`GET /projects`), and each project is walked through as a **problem → decision → tradeoff → result** log instead of a flat bullet list, because that's how I'd actually explain it in an interview.
+## GitHub Stats
 
-No framework, no build step. One `index.html`, deployable anywhere static hosting exists.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshSoni8780&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0D12&title_color=4FA8E0&icon_color=E8A33D&text_color=E7EAEE" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSoni8780&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0D12&title_color=4FA8E0&text_color=E7EAEE" alt="Top langs"/>
+</p>
 
-## Preview
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSoni8780&theme=tokyonight&hide_border=true&background=0A0D12&stroke=1E2530&ring=4FA8E0&fire=E8A33D&currStreakLabel=E7EAEE" alt="streak stats"/>
+</p>
 
-<div align="center">
-<img src="./screenshot.png" alt="Portfolio preview" width="800"/>
-<br/><sub>Replace with an actual screenshot before publishing.</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSoni8780&theme=tokyo-night&hide_border=true&bg_color=0A0D12&color=4FA8E0&line=E8A33D&point=E7EAEE" alt="activity graph"/>
+</p>
 
-## Tech Stack
+<br/>
 
-| Layer | Choice | Why |
-|---|---|---|
-| Markup | Semantic HTML5 | No framework overhead for a single static page |
-| Styling | CSS3 (custom properties, CSS Grid) | Full control over the design tokens, zero build step |
-| Typography | [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) + [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) | Same foundry, deliberate pairing — mono carries the "systems" identity, sans stays readable |
-| Interactivity | Vanilla JS | `IntersectionObserver` for scroll reveals, no dependencies |
-| Hosting | [Vercel](https://vercel.com) | Zero-config static deploy, instant preview URLs on every push |
+## Pinned Projects
 
-**Design principles:**
-- 🖥️ Terminal-window chrome and a CRT scanline overlay for texture without noise
-- 📊 Project write-ups as an "exchange log" — the actual reasoning trail, not just outcomes
-- ⌨️ Syntax-highlighted code excerpts pulled from the real implementation logic
-- ♿ Respects `prefers-reduced-motion`, visible focus states, responsive to 360px
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## Getting Started
+### [Distributed Rate Limiter Service](https://github.com/HarshSoni8780/Distributed-Rate-Limiter-Service)
+Standalone Go microservice supporting Fixed Window and Sliding Window Log algorithms, configurable per client. Solves the distributed race-condition problem with atomic Redis operations instead of naive read-then-write checks.
 
-No dependencies, no `npm install`. Clone and open.
+`Go` `Redis` `Microservices`
 
-```bash
-git clone https://github.com/<your-username>/harsh-portfolio.git
-cd harsh-portfolio
-open index.html   # or just double-click it
-```
+</td>
+<td width="50%" valign="top">
 
-For local dev with live reload, any static server works:
+### [Microservices Orchestration Platform](https://github.com/HarshSoni8780/Microservies-Orchestration-Platform)
+Production-grade containerized API platform — Node.js backend, PostgreSQL, deployed on Kubernetes via both raw manifests (Kustomize) and Helm charts, demonstrating end-to-end deployment strategy.
 
-```bash
-npx serve .
-# or
-python3 -m http.server 5500
-```
+`Node.js` `Kubernetes` `Helm` `Postgres`
 
-## Deployment
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Option A — Vercel dashboard (fastest)
-1. [vercel.com/new](https://vercel.com/new) → **Deploy without Git** → drag in this folder.
-2. Vercel detects it as a static site. Done.
+### [Java Connection Pool Manager](https://github.com/HarshSoni8780/JavaConnectionPoolManager)
+Custom JDBC connection pool built on `BlockingQueue<Connection>`, wrapped in a Spring Boot REST API for live stats and hot config — no HikariCP, no magic, just understanding what the pool actually does under the hood.
 
-### Option B — Git-connected (recommended, auto-deploys on push)
-1. Push this repo to GitHub.
-2. Vercel → **New Project** → import the repo.
-3. Framework preset: **Other**. Deploy.
-4. Every `git push` to `main` redeploys automatically; PRs get preview URLs.
+`Java` `Spring Boot` `JDBC`
 
-### Option C — Vercel CLI
-```bash
-npm i -g vercel
-vercel        # preview deploy
-vercel --prod # production deploy
-```
+</td>
+<td width="50%" valign="top">
 
-## Project Structure
+### More on the way
+Currently building an AI-integrated fullstack project and deepening the distributed-systems portfolio ahead of interviews. Check [pinned repos](https://github.com/HarshSoni8780?tab=repositories) for the latest.
 
-```
-harsh-portfolio/
-├── index.html      # entire site — markup, styles, and script in one file
-├── README.md
-└── LICENSE
-```
+`In progress`
 
-## Before You Deploy — Checklist
+</td>
+</tr>
+</table>
 
-- [ ] Swap placeholder `href="#"` links for real GitHub / LinkedIn / Codolio URLs
-- [ ] Point the "Download resume" button at a hosted PDF (or remove it)
-- [ ] Add a real screenshot and update the preview image path above
-- [ ] Set a custom domain in Vercel → Project → Domains
+<br/>
 
-## Roadmap
+## Trophies
 
-- [ ] Pull pinned GitHub repos live via the GitHub API instead of static project cards
-- [ ] Add a `/blog` route for write-ups on distributed systems problems
-- [ ] Lighthouse pass — target 100/100/100/100
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshSoni8780&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="trophies"/>
+</p>
 
-## Author
+<br/>
 
-**Harsh Soni** — Backend & Distributed Systems Engineer, VGEC Ahmedabad
-📧 [harshdsoni2021@gmail.com](mailto:harshdsoni2021@gmail.com)
+## Connect
 
-## License
+<p align="center">
+  <a href="mailto:harshdsoni2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Codolio-4FA8E0?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</p>
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshSoni8780/HarshSoni8780/main/snake.svg" alt="contribution snake"/>
+</p>
 
----
-
-<div align="center">
-<sub>Built with intent, not a template.</sub>
-</div>
+<p align="center"><sub>Built with intent, not a template.</sub></p>
