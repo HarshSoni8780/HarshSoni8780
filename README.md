@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/277775466?v=4" width="140" style="border-radius:50%;" alt="Harsh Soni"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=26&duration=3000&pause=1000&color=4FA8E0&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems+Engineer;Go+%C2%B7+Node.js+%C2%B7+Redis+%C2%B7+Kubernetes;Building+things+that+don't+fall+over" alt="Typing SVG" />
 </h1>
@@ -44,6 +48,27 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSoni8780&theme=tokyo-night&hide_border=true&bg_color=0A0D12&color=4FA8E0&line=E8A33D&point=E7EAEE" alt="activity graph"/>
+</p>
+
+<br/>
+
+## Competitive Programming — Codolio
+
+<p align="center">
+  <a href="https://codolio.com/profile/Harsh_Soni8780" target="_blank">
+    <img src="https://codolio.com/api/og/Harsh_Soni8780" alt="Codolio stats card" width="720" style="border-radius:10px; border:1px solid #1E2530;"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Live card, pulled directly from Codolio — updates automatically as problems get solved. Click through for the full breakdown by platform.</sub>
+</p>
+
+<p align="center">
+  <a href="https://codolio.com/profile/Harsh_Soni8780"><img src="https://img.shields.io/badge/Codolio-View%20Full%20Profile-4FA8E0?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -104,8 +129,8 @@ Currently building an AI-integrated fullstack project and deepening the distribu
 <p align="center">
   <a href="mailto:harshdsoni2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Codolio-4FA8E0?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://github.com/HarshSoni8780"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/Harsh_Soni8780"><img src="https://img.shields.io/badge/Codolio-4FA8E0?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 <p align="center">
